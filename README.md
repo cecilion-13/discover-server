@@ -1,8 +1,15 @@
 # Discovery-Server
 
 An Netflix Eureka Server is used as a Discovery server for various microservices of application "Agriculture Crop System".
-
-Swagger Configuration is there for proper documentation.
+  Swagger Configuration is there for proper documentation.
+  
+Following are the various modules of this project.
+1. [Farmer Module](https://github.com/cecilion-13/Farmer_management_demo1)
+2. [Dealer Module](https://github.com/cecilion-13/DealerManagement)
+3. [Crop Module](https://github.com/cecilion-13/CropService)
+4. [Bank Account Module](https://github.com/cecilion-13/accountsService)
+5. [API Gateway Serivce](https://github.com/cecilion-13/api-gateway)
+6. [Discovery Server](https://github.com/cecilion-13/discover-server)
 
 The List of Microservices are:
   1. Farmer Management
